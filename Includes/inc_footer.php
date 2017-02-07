@@ -1,9 +1,11 @@
 <style type="text/css">
-	footer{
-		width: 1600px;
-		margin: 0 auto;
+	#footer{
+		clear:both;
+		background-color: #333;
+		font-size: 14px;
+		color: #FFF;
 		text-align:center;
 }
 </style>
 
-<footer>Copyright &copy; 2017 Ravshanbek Norboev. All rights reserved.</footer>
+<div id="footer">Copyright &copy; 2017 Ravshanbek Norboev. All rights reserved.</div>

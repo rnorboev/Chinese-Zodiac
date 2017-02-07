@@ -1,16 +1,10 @@
 <style type="text/css">
-	header {
-  text-align: center;  
+#header {
+  text-align: center;
+  width: 900px;
 }
-header img {
-	width: 1600px;
-  list-style: none;
-  padding: 0;
-  margin: 0;
-}
-
 </style>
 
-<header>
-	<img src="images/ChineseZodiacBanner.png">
-</header>
+<div id="header">
+	<img src="images/ChineseZodiacBanner.png" alt="Banner of Website">
+</div>

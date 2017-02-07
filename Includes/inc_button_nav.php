@@ -1,33 +1,32 @@
 <style type="text/css">
-nav {
-  text-align: center;  
+#nav {
+  	text-align: center;
+	float: left;
+	margin-left: 5px;
 }
-nav ul {
-	width: 1600px;
-  list-style: none;
-  padding: 0;
-  margin: 0;
+#nav ul {
+  	list-style: none;
+	margin: 0;
 }
-nav > ul > li {
-  display: inline-block;
+#nav > ul > li {
+  	padding-bottom: 10px;
+  	padding-top: 5px;
 }
-nav a {
-  display: block; 
-  padding: 10px 1px;
-  color: #000000;
-  text-decoration: none;
+#nav a {
+  	display: block; 
+  	text-decoration: none;
 }
-nav li:hover > ul {
-  display: block;
+#nav li:hover > ul {
+  	display: block;
 }
-nav > ul ul {
-  display: none;
-  position: absolute;
+#nav > ul ul {
+  	display: none;
+  	position: absolute;
 }
 </style>
-<nav>
-<ul id="nav">
-	<li><a href="../index.php"><img src="images/HomePage.jpg"></a></li>
+<div id="nav">
+<ul>
+	<li><a href="#"><img src="images/HomePage.jpg"></a></li>
 	<li><a href="#"><img src="images/SiteLayout.jpg"></a></li>
 	<li><a href="#"><img src="images/ControlStructures.jpg"></a></li>
 	<li><a href="#"><img src="images/StringFunctions.jpg"></a></li>
@@ -37,4 +36,4 @@ nav > ul ul {
 	<li><a href="#"><img src="images/UserTemplates.jpg"></a></li>
 	<li><a href="#"><img src="images/FinalProject.jpg"></a></li>
 </ul>
-</nav>
+</div>

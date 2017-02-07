@@ -1,0 +1,37 @@
+/*--------------------Html tags--------------------*/
+html, body, ul, ol, li, p, h1, h2, h3, h4, h5, h6, a, img, div, form, fieldset {
+	margin: 0;
+	padding: 0;
+	border: 0;
+	font-family: Verdana, Arial, Helvetica, sans-serif, Times;
+}
+body {
+	background-color: #FFF;
+	padding-top: 5px;
+}
+
+#wrapper {
+	background-color: #cccccc;
+	width:1000px;
+	margin: auto;
+	border: double 7px #000000;
+}
+
+#content
+    {
+	width: 1000px;
+	background-color: #FFF;
+	margin: 0;
+	padding: 0;
+    }
+
+
+
+
+
+    <style type="text/css">
+#nav {
+	float: left;
+	margin-right: 5px;
+	padding
+}
