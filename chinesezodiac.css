@@ -8,6 +8,7 @@ html, body, ul, ol, li, p, h1, h2, h3, h4, h5, h6, a, img, div, form, fieldset {
 body {
 	background-color: #FFF;
 	padding-top: 5px;
+	align-content: center;
 }
 
 #wrapper {
@@ -21,6 +22,7 @@ body {
     {
 	width: 1000px;
 	background-color: #FFF;
-	margin: 0;
-	padding: 0;
+	margin-left: 220px;
     }
+#dynamic { 
+	margin-left: 220px; }

@@ -1,6 +1,5 @@
 <style type="text/css">
 #header {
-  text-align: center;
   width: 900px;
 }
 </style>
