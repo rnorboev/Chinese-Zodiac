@@ -5,6 +5,7 @@
 </head>
 <body>
 	<h1>Similar Names</h1>
+	<div style="background-color: #cccccc">
 	<?php 
 	/*declare the $SignNames array and variables to track the smallest value from the levenshtein() function and the largest value from the similar_text() function.*/
 		$SignNames = array(
@@ -48,5 +49,6 @@
 		echo "<p>The levenshtein() function has determined that &quot;$LevenshteinWord1&quot; and &quot;$LevenshteinWord2&quot; are the most similar names.</p>\n";
 		echo "<p>The similar_text() function has determined that &quot;$SimilarTextWord1&quot; and &quot;$SimilarTextWord2&quot; are the most similar names.</p>\n";
 	?>
+	</div>
 </body>
 </html>

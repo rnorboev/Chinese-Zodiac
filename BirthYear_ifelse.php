@@ -4,16 +4,8 @@
 	<title></title>
 </head>
 <body>
-<style type="text/css">
-    #wrapp{
-        text-align: left;
-        background-color: #cccccc;
-        
-        margin: auto;
-        padding:8px;
-    }   
-</style>
-<div id="wrapp">
+
+<div style="background-color: #cccccc">
 
 	<?php
 		function displayForm($birthyear) 

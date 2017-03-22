@@ -3,7 +3,7 @@
 <html lang="en">
 	<head>
 		<title>Chinese Zodiac</title>
-		<link rel="stylesheet" type="text/css" href="chinesezodiac.css">
+		<link rel="stylesheet" type="text/css" href="style.css">
 		<meta charset="utf-8">
 	</head>
 	<body align="center">
@@ -25,7 +25,7 @@
 			?>
 		</div>
 
-	<div id="content">
+	<div class="dynamic">
 	<?php 
 		if (isset($_GET['page'])) {
                 switch ($_GET['page']) {

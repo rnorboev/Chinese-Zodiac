@@ -1,0 +1,76 @@
+/*--------------------Html tags--------------------*/
+html, body, ul, ol, li, p, h1, h2, h3, h4, h5, h6, a, img, div, form, fieldset {
+	margin: 0;
+	padding: 0;
+	border: 0;
+	font-family: Verdana, Arial, Helvetica, sans-serif, Times;
+}
+body {
+	background-color: #FFF;
+	padding-top: 5px;
+	align-content: center;
+}
+
+#wrapper {
+	background-color: #cccccc;
+	width:1000px;
+	margin: auto;
+	border: double 7px #000000;
+}
+
+#content
+    {
+	margin-left: 1px;
+    }
+.dynamic{
+	background-color: #cccccc;
+	padding-left: 15px;
+	padding-right: 15px;
+	float: right;
+	width: 800px;
+
+}
+#left {
+	text-align: left;
+}
+.nav {
+  	text-align: center;
+	float: left;
+	margin-left: 5px;
+	padding-bottom: 400px;
+}
+.nav ul {
+  	list-style: none;
+	margin: 0;
+	padding: 0;
+}
+.nav > ul > li {
+  	padding-bottom: 10px;
+  	padding-top: 5px;
+  	
+}
+.nav a {
+  	display: block; 
+  	text-decoration: none;
+}
+.nav li:hover > ul {
+  	display: block;
+}
+.nav > ul ul {
+  	display: none;
+  	position: absolute;
+}
+p {
+	text-align: left;
+	text-indent: 2em;
+}
+h1, h2{
+	text-align: center;
+}
+#footer{
+		clear:both;
+		background-color: #333;
+		font-size: 14px;
+		color: #FFF;
+		text-align:center;
+	}

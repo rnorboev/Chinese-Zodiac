@@ -5,6 +5,7 @@
 </head>
 <body>
 	<h1>Embedded Words</h1>
+	<div style="background-color: #cccccc">
 	<?php 
 	//declare the $Phrases and $SignNames arrays
 		$Phrases = array("Your Chinese zodiac sign tells a lot about your personality.", "Embed PHP scripts within an XHTML documnet.");
@@ -79,6 +80,6 @@
 		echo "<hr />\n";
 	}
 	?>
-
+</div>
 </body>
 </html>

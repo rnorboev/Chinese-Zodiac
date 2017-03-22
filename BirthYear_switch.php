@@ -4,16 +4,8 @@
   <title>Birth Year Switch</title>
 </head>
 <body>
-<style type="text/css">
-    #wrapp{
-        text-align: left;
-        background-color: #cccccc;
-        
-        margin: auto;
-        padding:8px;
-    }   
-</style>
-<div id="wrapp">
+
+<div style="background-color: #cccccc">
 <?php
 ini_set('display_errors', 'On');
 error_reporting(E_ALL | E_STRICT);

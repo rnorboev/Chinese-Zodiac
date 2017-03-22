@@ -1,12 +1,4 @@
-<style type="text/css">
-    #wrapp{
-        text-align: left;
-        background-color: #cccccc;
-        
-        margin: auto;
-        padding:8px;
-    }   
-</style>
+
 
 <!DOCTYPE html>
 <html>
@@ -14,8 +6,9 @@
     <title>Zodiac Gallery</title>
 </head>
 <body>
-<div id="wrapp">
-<h1  style="text-align: center">Zodiac Gallery</h1>
+
+<div style="background-color: #cccccc">
+<h1>Zodiac Gallery</h1>
 <p>Click a thumbnail image to see an independent view.</p>
 <?php
 $SignsArray = array("images/Rat.png" => "Rat",

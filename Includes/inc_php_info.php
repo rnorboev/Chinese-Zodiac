@@ -1,13 +1,6 @@
-<style type="text/css">
-	.wrapper{
-		text-align: left;
-		background-color: #cccccc;
-		margin: auto;
-		padding:8px;
-	}
-</style>
-<div class="wrapper">
-<h2 style="text-align: center;">PHP Info</h2><br/>
+
+<div class="dynamic">
+<h2>PHP Info</h2><br/>
 <p>PHP is a server side scripting language. That means its processing happens in the server by consuming server’s resources and sends only the output to the client. In a client side scripting language like JavaScript, processing happens in the client’s computer consuming its resources.</p><br/>
 <p>PHP can also be used as a language for Command line Scripting and Desktop applications. But it’s widely used for web applications.</p><br/>
 

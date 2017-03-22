@@ -5,19 +5,8 @@
 </head>
 <body>
 
-<style type="text/css">
-  #wrapp{
-    text-align: left;
-    background-color: #cccccc;
-    margin: auto: ;
-    padding:8px;
-  } 
-  p{
-    text-indent: 2em;
-  }
-</style>
-<div id="wrapp">
-<h1 style="text-align: center;">Alphabetize the 12 Chinese Zodiac Signs</h1>
+<div style="background-color: #cccccc">
+<h1>Alphabetize the 12 Chinese Zodiac Signs</h1>
 <textarea style="text-align: left" name="list" form="signs" rows="10" cols="80" placeholder="Write 12 random Chinese Zodiac sign names separated by comma"></textarea>
 <form method="POST" id="signs">
   <input type="submit" value="Sort">
