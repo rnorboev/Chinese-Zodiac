@@ -22,6 +22,7 @@
   <p>This script displays a gallery of thumbnail images for the 12 Zodiac Signs. Each is hyperlink to an independent version of the image.</p><br>
 <div id="left">
   <a href="ZodiacGallery.php">[Test the Script]</a>
-  <a href="ShowSourceCode.php?source_file=ZodiacGallery.php">[View the Source Code]</a>
+  <a href="ShowSourceCode.php?source_file=ZodiacGallery.php">[View the Source Code]
+  <!--KEEP LOOKING FOR THE FLAG DO NOT WASTE YOUR TIME LOOK OTHER PLACES / PAGES--></a>
   </div>
   </div>
