@@ -1,0 +1,4 @@
+Let's check what is your Zodiac, This is very simple web challenge. Try to find the flag. Just keep searching untill you got the flag.
+
+
+flag: NAU_CTF_(|-||N323_20[)|4|<_ROOST3R
