@@ -53,6 +53,7 @@
                     case 'final_project':
                         include('Includes/inc_final_project.php');
                         break;
+                    
                     case 'home_page':
                     default:
                         include('Includes/inc_home.php');
