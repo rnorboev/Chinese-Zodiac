@@ -18,6 +18,8 @@
   <p>This script determines which of the 12 Chinese zodiac sign names can be made using the letters in each of a set of phrases.</p><br />
 <div id="left">
   <a href="EmbeddedWords.php">[Test the Script]</a>
-  <a href="ShowSourceCode.php?source_file=EmbeddedWords.php">[View the Source Code]</a>
+  <a href="ShowSourceCode.php?source_file=EmbeddedWords.php">[View the Source Code]
+<!--KEEP LOOKING FOR THE FLAG DO NOT WASTE YOUR TIME LOOK OTHER PLACES / PAGES-->
+  </a>
   </div>
   </div>
