@@ -16,6 +16,7 @@
 	<li><a href="index.php?page=state_information"><img src="images/StateInformation.jpg" alt="[State Information]" title="State Information" style="border: 0" /></a></li>
 	<li><a href="index.php?page=user_templates"><img src="images/UserTemplates.jpg" alt="[User Templates]" title="User Templates" style="border: 0" /></a></li>
 	<li><a href="index.php?page=final_project"><img src="images/FinalProject.jpg" alt="[Final Project]" title="Final Project" style="border: 0" /></a></li>
+	
 </ul>
 </div>
 </body>
