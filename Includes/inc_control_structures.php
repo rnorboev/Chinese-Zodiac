@@ -13,7 +13,7 @@
 <a href="#if_else">If...Else Statement</a> |
 <a href="#switch">Switch Statement</a> |
 <a href="#while_loop">While Loop</a> |
-<a href="#for_loop">For Loop</a> 
+<a href="#for_loop">For Loop<!--KEEP LOOKING FOR THE FLAG YOU CAN DO IT--></a> 
 </div>
 <br>
 <br>
@@ -51,6 +51,7 @@
   <a href="Chinese_Zodiac_for_loop.php">[Test the Script]</a>
   <a href="ShowSourceCode.php?source_file=Chinese_Zodiac_for_loop.php">[View the Source Code]</a>
   </div>
+  <input type="hidden" name="file" value="Includes/inc_rooster.php">
 </div>
 
 </body>
