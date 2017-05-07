@@ -22,11 +22,11 @@
 	7. Horse (Yang, 3rd Trine, Fixed Element Fire)<br/>
 	8. Goat (Yin, 4th Trine, Fixed Element Earth)<br/>
 	9. Monkey (Yang, 1st Trine, Fixed Element Metal)<br/>
-	10. Rooster (Yin, 2nd Trine, Fixed Element Metal)<br/>
+	10. Rooster (Yin, 2nd Trine, Fixed Element Metal)<br/><!--KEEP LOOKING FOR THE FLAG DO NOT WASTE YOUR TIME LOOK OTHER PLACES / PAGES-->
+
 	11. Dog (Yang, 3rd Trine, Fixed Element Earth)<br/>
 	12. Pig (Yin, 4th Trine, Fixed Element Water)<br/></p><br/>
 
 
 <p>Source: https://en.wikipedia.org/wiki/Chinese_zodiac</p>
-
 </div>
